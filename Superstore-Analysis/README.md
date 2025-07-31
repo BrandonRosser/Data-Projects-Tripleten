@@ -9,7 +9,7 @@ This project analyzes product sales by category and U.S. state to guide decision
 - Designed an interactive Tableau dashboard to clearly display KPIs and product insights
 
 ## 🖼️ Preview
-![Dashboard Screenshot](#) <!-- Optional: Replace # with image link -->
+![Dashboard Screenshot](https://github.com/BrandonRosser/Data-Projects-Tripleten/blob/main/Superstore-Analysis/Superstore-screenshot)
 
 ## ✅ Results
 - Identified underperforming product lines that could be discontinued or reworked
