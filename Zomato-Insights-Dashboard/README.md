@@ -10,7 +10,7 @@ This project explores user behavior patterns from Zomato to uncover correlations
 - Presented findings with actionable recommendations for customer retention and segmentation
 
 ## 🖼️ Preview
-![Dashboard Screenshot](#) 
+![Dashboard Screenshot]([#](https://github.com/BrandonRosser/Data-Projects-Tripleten/blob/main/Zomato-Insights-Dashboard/Zomato-Dashboard)) 
 
 ## ✅ Results
 - Found that middle-aged users generated the most consistent revenue
