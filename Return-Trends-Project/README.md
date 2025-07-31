@@ -10,7 +10,7 @@ This project investigates return behavior across product categories, regions, an
 - Recorded and delivered a presentation to practice public speaking and storytelling
 
 ## 🖼️ Preview
-![Dashboard Screenshot](#) <!-- Optional: Replace # with image link -->
+![Dashboard Screenshot](https://github.com/BrandonRosser/Data-Projects-Tripleten/blob/main/Return-Trends-Project/Return-Trends-Dashboard)
 
 ## ✅ Results
 - Identified categories with disproportionately high return rates
